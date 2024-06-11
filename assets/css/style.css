@@ -1,0 +1,110 @@
+body {
+  background-color: #f4f2ee;
+}
+.navbar {
+  height: 55px;
+  align-items: center;
+  display: flex;
+  margin: 0 auto;
+  min-height: 100%;
+  background-color: #fff;
+  border: 1px solid;
+  border-color: #5f5f5f;
+}
+.navbar-menu {
+  position: sticky;
+  left: 0;
+  right: 0;
+  top: 0;
+  z-index: 999;
+}
+.card-footer {
+  background-color: #fff;
+}
+.nav-item {
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: gray;
+  margin-top: 5px;
+  margin-bottom: -15px;
+  font-weight: lighter;
+}
+.mediatext {
+  border: none;
+}
+.input-share i {
+  left: 10px;
+}
+.input-share input {
+  padding-left: 30px;
+  height: 48px;
+}
+.button-group {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  width: 100%;
+}
+.button-group button {
+  margin-top: 10px;
+  font-size: 14px;
+  width: fit-content;
+  padding: 8px 20px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  border-radius: 4px;
+  border: none;
+  background-color: #fff;
+  color: rgb(0 0 0/0.75);
+  font-weight: 600;
+}
+.button-group button:hover {
+  background-color: rgb(140 140 140/0.1);
+}
+
+.button-group button:first-child svg {
+  fill: #70b5f9;
+}
+.button-group button:nth-child(2) svg {
+  fill: #7fc15e;
+}
+.button-group button:nth-child(3) svg {
+  fill: #e7a33e;
+}
+.button-group button:nth-child(4) svg {
+  fill: #f5987e;
+}
+.button-group .ref {
+  margin-top: 0;
+  font-size: 14px;
+  width: fit-content;
+  padding: 8px 20px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  border-radius: 4px;
+  background-color: #fff;
+  color: rgb(0 0 0/0.75);
+  font-weight: 600;
+}
+.text-center a {
+  text-decoration: none;
+  cursor: pointer;
+  color: #5f5f5f;
+}
+.text-center a:hover {
+  text-decoration: underline;
+  color: #0a66c2;
+}
+.btn-follow {
+  border-radius: 50px;
+  background-color: #fff;
+  border: 1px solid #11bfbf;
+  padding: 3px 8px;
+  color: #11bfbf;
+}
+.btn-follow:hover {
+  background-color: #11bfbf;
+  color: #fff;
+}
