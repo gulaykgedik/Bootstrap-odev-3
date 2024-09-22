@@ -9,5 +9,6 @@ Bu projede;
 <br>
 
 
-https://github.com/user-attachments/assets/e977a0c3-4c48-4d66-8c1f-bf358b1b1bb4
 
+
+![Linkedin-clone](https://github.com/user-attachments/assets/16c2bdb1-00e4-4bcc-bed1-ab0baf535528)
